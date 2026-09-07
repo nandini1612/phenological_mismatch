@@ -290,7 +290,7 @@ European phenological monitoring network operating since the 1950s.*
 ## Contact
 
 Built by Nandini Saxena ·
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) ·
-[Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/nandini-saxena1111/) ·
+[Email](mailto:nandinisaxenawork@gmail.com)
 
 Featured by [PEP725 Pan-European Phenology Database](https://pep725.eu)
