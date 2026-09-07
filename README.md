@@ -5,6 +5,7 @@
 [![Live Platform](https://img.shields.io/badge/platform-live-4a7c59)](https://pheno-mismatch.lovable.app)
 [![API](https://img.shields.io/badge/API-live-4a7c59)](https://phenomismatch-api.onrender.com/docs)
 [![Featured by PEP725](https://img.shields.io/badge/featured%20by-PEP725-c8882a)](https://pep725.eu)
+![Phenological Mismatch Observatory](docs/screenshot_hero.png)
 
 ---
 
@@ -68,6 +69,8 @@ PEP725 stations  ──┘         │
 ---
 
 ## Computer vision — phenophase classifier
+
+![Confusion matrix and training curves](docs/confusion_matrix.png)
 
 The binding constraint on citizen science phenology pipelines is low annotation
 density. Fewer than 5% of iNaturalist oak photographs have phenophase labels.
@@ -145,6 +148,7 @@ Non-COVID MAE: **2.2 days.** Mean bias: +0.6 days.
 
 ## Ecological results
 
+![OAK-TIT visualiser](docs/screenshot_visualizer.png)
 ### OAK-TIT — above fitness threshold
 
 | H3 Cell | Location | Oak DOY | Tit DOY | Gap | Confidence |
@@ -275,7 +279,14 @@ in great tits. *Proc R Soc B.*
 Code: MIT · Data products: CC-BY (attribution to all sources required)
 
 ---
+## External recognition
 
+![Featured on PEP725 website](docs/pep725_feature.png)
+*Phenological Mismatch Observatory featured on the PEP725 
+Pan-European Phenology Database (pep725.eu), the primary 
+European phenological monitoring network operating since the 1950s.*
+
+---
 ## Contact
 
 Built by Nandini Saxena ·
